@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projects
-- 
+
 
 <!---
 rajivsen511/rajivsen511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
