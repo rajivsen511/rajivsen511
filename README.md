@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajiv Sen
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Real time projects
+
 
 
 <!---
