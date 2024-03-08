@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajiv Sen
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👀 I’m a Java Backend developer
+- 🌱 I’m currently learning Java!Happy coding
 
 
 
