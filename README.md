@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajiv Sen
-- 👀 I’m a Java Backend developer
+- 👀 I’m a Java FullStack developer
 - 🌱 I’m currently learning Java!Happy coding
 
 
